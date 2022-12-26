@@ -1,0 +1,28 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px rgb(170, 154, 134);
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+    background-color:#95794a;
+    color:white;
+}
+.note{
+    color: rgb(215, 190, 166);
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+   color:white;
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'PT Mono', monospace;
+}
+body
+{
+    background-size: cover;
+    font-family: 'PT Mono', monospace;
+}
